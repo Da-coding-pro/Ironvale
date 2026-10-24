@@ -1,8 +1,8 @@
-# Ironvale Protocol — End User Licence Agreement
+# Ironvale — End User Licence Agreement
 
 **Copyright © 2026 Arcsteel Reactor Studios (GitHub: [Da-coding-pro](https://github.com/Da-coding-pro)). All rights reserved.**
 
-Ironvale Protocol, its builds, code, art, models, music, sound, text, characters, mech designs, logos and names
+Ironvale, its builds, code, art, models, music, sound, text, characters, mech designs, logos and names
 (together, **the Game**) are owned by Arcsteel Reactor Studios and protected by copyright and other
 intellectual-property laws. Section 2 lets you use its art and names; everything else is reserved. This is
 **not** an open-source licence. The Game is licensed to you, not sold.
