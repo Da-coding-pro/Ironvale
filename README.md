@@ -137,10 +137,13 @@ See the [release notes](https://github.com/Da-coding-pro/IronvaleProtocol-releas
 
 **Ironvale Protocol is proprietary software — © 2026 Arcsteel Reactor Studios ([Da-coding-pro](https://github.com/Da-coding-pro)). All rights reserved.**
 
-You may download the official builds and play them for personal, non-commercial use. You may **not** copy, re-upload,
-modify, decompile, rebrand, remake or clone the game, or use its name, art, music or characters, without written
-permission. Read the full terms in [LICENSE.md](LICENSE.md).
+- ✅ Download the official builds and play them for personal, non-commercial use.
+- ✅ Use the game's **art** and **names** (mechs, characters, logos, designs) in your own work, as long as you don't
+  pass it off as the official game.
+- ❌ Copy, re-upload, modify or decompile the game or its code, or rebrand, remake or clone it.
+
+Read the full terms in [LICENSE.md](LICENSE.md).
 
 ---
 
-<p align="center"><sub>Ironvale Protocol™, Titan Circuit™ and Arcsteel Reactor Studios™ are trademarks of Arcsteel Reactor Studios.<br>Built with Unity 6. This repository hosts the game's official builds only; the source code is private and not licensed.</sub></p>
+<p align="center"><sub>© 2026 Arcsteel Reactor Studios. Built with Unity 6. This repository hosts the game's official builds only; the source code is private and not licensed.</sub></p>
