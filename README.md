@@ -19,6 +19,29 @@
 
 ---
 
+## ⚒️ New in 1.8 — Forge & Fury
+
+<table>
+<tr>
+<td width="50%"><img src="media/oblivion_match.jpg" alt="Oblivion in a 3v3"></td>
+<td width="50%"><img src="media/forge.jpg" alt="Forged Rewards"></td>
+</tr>
+<tr>
+<td><b>Five new mechs</b> — Jolt, Ronin, Hex, Wyvern and the Ultra Legendary <b>Oblivion</b>, whose Event Horizon beam tears through whole teams.</td>
+<td><b>Forged Rewards</b> — every reward is hammered out on the anvil. Each strike can raise its rarity until it's forged.</td>
+</tr>
+<tr>
+<td><img src="media/oblivion_super.jpg" alt="Oblivion's Singularity"></td>
+<td><img src="media/forge_strike.jpg" alt="The hammer winds up"></td>
+</tr>
+<tr>
+<td>Tougher frames: <b>every mech now has at least 3,500 hull</b>, and higher rarities are always tougher.</td>
+<td>New soundtrack: a <b>cyberpunk phonk</b> beat in the lobby and <b>fast mecha battle music</b> in every match.</td>
+</tr>
+</table>
+
+---
+
 ## 🔥 New in 1.7 — Elementals
 
 <table>
@@ -46,10 +69,10 @@
 
 The Titan Circuit is an industrial ring world at war. The Ironvale Compact fights the corrupted Hollow Choir for its foundries — and every battle is fought by mechs.
 
-- **35 mechs** across seven rarities, from Common to Ultra Legendary and Elemental — tanks, bruisers, snipers, assassins, artillery, support and skirmishers. **No two share an attack or a dash.**
+- **40 mechs** across seven rarities, from Common to Ultra Legendary and Elemental — tanks, bruisers, snipers, assassins, artillery, support and skirmishers. **No two share an attack or a dash.**
 - **Hidden Godly pilots** that fight on foot and summon their own mega mech.
 - **Modes:** 1v1 Duel, 2v2, 3v3 team battles, Showdown, Ranked (Bronze → Godly → Unmatched) and PvE contracts.
-- **Progression:** trophy road, power levels, Chaos Drops, daily quests, a season pass, skins and gears.
+- **Progression:** trophy road, power levels, Forged Rewards, daily quests, a season pass, skins and gears.
 - **Online:** cross-play between Windows, Android and the browser, parties, friends and cloud saves.
 - **Controls:** keyboard and mouse, controller, or twin-stick touch controls on phones.
 
@@ -64,11 +87,11 @@ The Titan Circuit is an industrial ring world at war. The Ironvale Compact fight
 </tr>
 <tr>
 <td><img src="media/mega.jpg" alt="Mega mech fight"></td>
-<td><img src="media/drop.jpg" alt="Chaos Drop"></td>
+<td><img src="media/lobby_oblivion.jpg" alt="Oblivion in the lobby"></td>
 </tr>
 <tr>
 <td align="center"><i>Team battles with supers and mega mechs</i></td>
-<td align="center"><i>Chaos Drops — what's inside?</i></td>
+<td align="center"><i>Oblivion, the Ultra Legendary void titan</i></td>
 </tr>
 <tr>
 <td><img src="media/touch.jpg" alt="Touch controls"></td>
@@ -110,4 +133,14 @@ See the [release notes](https://github.com/Da-coding-pro/IronvaleProtocol-releas
 
 ---
 
-<p align="center"><sub>Built with Unity 6 by <b>Arcsteel Reactor Studios</b>. This repository hosts the game's public builds; the source is private.</sub></p>
+## ⚖️ Licence
+
+**Ironvale Protocol is proprietary software — © 2026 Arcsteel Reactor Studios ([Da-coding-pro](https://github.com/Da-coding-pro)). All rights reserved.**
+
+You may download the official builds and play them for personal, non-commercial use. You may **not** copy, re-upload,
+modify, decompile, rebrand, remake or clone the game, or use its name, art, music or characters, without written
+permission. Read the full terms in [LICENSE.md](LICENSE.md).
+
+---
+
+<p align="center"><sub>Ironvale Protocol™, Titan Circuit™ and Arcsteel Reactor Studios™ are trademarks of Arcsteel Reactor Studios.<br>Built with Unity 6. This repository hosts the game's official builds only; the source code is private and not licensed.</sub></p>
