@@ -19,6 +19,21 @@
 
 ---
 
+## 🧑‍🚀 New in 1.9 — Two New Pilots
+
+<table>
+<tr>
+<td width="50%"><img src="media/sneha.jpg" alt="Sneha"></td>
+<td width="50%"><img src="media/nayra.jpg" alt="Nayra"></td>
+</tr>
+<tr>
+<td><b>Sneha, the Starweaver</b>: weaving Ribbon Stars, a Supernova Bloom heat-seeker that bursts into four, and an Oracle mega mech.</td>
+<td><b>Nayra, the Mirage</b>: Mirage Daggers that speed up as they fly, a Monsoon of slowing seekers, and a Wraith mega mech.</td>
+</tr>
+</table>
+
+---
+
 ## ⚒️ New in 1.8 — Forge & Fury
 
 <table>
