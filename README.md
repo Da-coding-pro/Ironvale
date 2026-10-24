@@ -19,6 +19,48 @@
 
 ---
 
+## 🌀 New in 2.0 — Titan Fusion & the Elemental Gauntlet
+
+### Titan Fusion — a new 1v1 mode
+Pick five of your mechs. When the match starts they gather around you, dive together and burst out as **one mega titan** that fires every attack, heavy weapon and super they carry — against an opponent who fused five of their own. First to 2 takedowns. Online and vs bots.
+
+<table>
+<tr>
+<td width="50%"><img src="media/fusion_gather.jpg" alt="Five mechs gather"></td>
+<td width="50%"><img src="media/fusion_burst.jpg" alt="The fusion burst"></td>
+</tr>
+<tr>
+<td>Your five picks circle in...</td>
+<td>...dive into the centre and fuse.</td>
+</tr>
+<tr>
+<td><img src="media/fusion_titan.jpg" alt="The fusion titan"></td>
+<td><img src="media/fusion_battle.jpg" alt="Titan against titan"></td>
+</tr>
+<tr>
+<td>Twice the size, one glowing orb per fused mech.</td>
+<td>Titan against titan: every weapon fires at once.</td>
+</tr>
+</table>
+
+<p align="center"><img src="media/fusion_picks.jpg" alt="Choosing five mechs" width="80%"><br><sub>Choose your five (the first one leads: the titan takes its look and dash) and see the titan's full arsenal before you fuse.</sub></p>
+
+### The Elemental Gauntlet & Aether
+Own all four elemental mechs and the Gauntlet opens: mega Ignis, Terra, Maelstrom and Zephyr one after another — and when the last one falls, **Aether, the Fifth Element**, awakens with every element's power combined. You get **10 lives**. Beat it and Aether can be bought in MECHS as an **Ultra Legendary** that fires all four elemental attacks and supers alongside its own.
+
+<table>
+<tr>
+<td width="50%"><img src="media/gauntlet.jpg" alt="The Elemental Gauntlet"></td>
+<td width="50%"><img src="media/aether.jpg" alt="Aether"></td>
+</tr>
+<tr>
+<td>Five bosses in a row, 10 lives, 15 minutes.</td>
+<td>Aether: Quintessence stars and four elemental orbs.</td>
+</tr>
+</table>
+
+---
+
 ## 🧑‍🚀 New in 1.9 — Two New Pilots
 
 <table>
