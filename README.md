@@ -1,172 +1,113 @@
-# Ironvale Protocol
+<p align="center">
+  <img src="media/banner.jpg" alt="Ironvale Protocol" width="100%">
+</p>
 
-A fast-paced multiplayer mech arena brawler built in Unity.
+<p align="center">
+  <a href="https://github.com/Da-coding-pro/IronvaleProtocol-releases/releases/latest/download/IronvaleProtocol_Setup.exe"><img src="https://img.shields.io/badge/Windows-Download-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Download for Windows"></a>
+  <a href="https://github.com/Da-coding-pro/IronvaleProtocol-releases/releases/latest/download/IronvaleProtocol.apk"><img src="https://img.shields.io/badge/Android-Download_APK-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Download for Android"></a>
+  <a href="https://da-coding-pro.github.io/IronvaleProtocol-releases/play/"><img src="https://img.shields.io/badge/Browser-Play_now-FFB000?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Play in your browser"></a>
+</p>
 
-Fight across the Titan Circuit as powerful combat frames, complete contracts, earn salvage, unlock new mechs, and climb the ranks against players from Windows, Android, and Web.
+<p align="center">
+  <a href="https://github.com/Da-coding-pro/IronvaleProtocol-releases/releases/latest"><img src="https://img.shields.io/github/v/release/Da-coding-pro/IronvaleProtocol-releases?style=flat-square&label=latest&color=ffb000" alt="Latest release"></a>
+  <a href="https://github.com/Da-coding-pro/IronvaleProtocol-releases/releases"><img src="https://img.shields.io/github/downloads/Da-coding-pro/IronvaleProtocol-releases/total?style=flat-square&color=2ea043" alt="Downloads"></a>
+  <img src="https://img.shields.io/badge/engine-Unity_6-222?style=flat-square&logo=unity" alt="Unity 6">
+  <img src="https://img.shields.io/badge/cross--play-Windows_·_Android_·_Web-4c6ef5?style=flat-square" alt="Cross-play">
+</p>
 
-## Features
-
-- 🤖 Collect unique playable mechs
-- ⚔️ PvP Arena Battles
-- 🎯 PvE Contracts and Missions
-- 🏆 Trophy Road Progression
-- 📦 Chaos Drop Rewards
-- 📈 Ranked Competitive Play
-- 👥 Friends & Social Features
-- 🌐 Cross-Platform Multiplayer
-- 💾 Cloud Save Support
-- 🎮 Controller, Keyboard, Mouse & Touch Support
-
----
-
-## The World
-
-The Titan Circuit is a massive industrial ring world locked in conflict.
-
-The Ironvale Compact battles against the corrupted Hollow Choir for control of critical foundry sectors, resource routes, and strategic territories.
-
-Every mech on the battlefield is a specialised combat frame with its own role, abilities, strengths, and playstyle.
+<p align="center"><b>A fast top-down mech arena brawler. Pick a combat frame, drop into the arena, and fight players on PC, phone and browser — all in the same match.</b></p>
 
 ---
 
-## Gameplay
+## 🔥 New in 1.7 — Elementals
 
-Choose your combat frame and deploy into battle.
-
-### Playable Roles
-
-- Tank
-- Bruiser
-- Support
-- Artillery
-- Assassin
-- Sniper
-- Skirmisher
-
-Each mech features:
-
-- Unique weapons
-- Active abilities
-- Passive traits
-- Distinct movement options
-- Individual progression paths
-
-No two mechs play the same.
+<table>
+<tr>
+<td width="50%"><img src="media/elements.jpg" alt="Elements page"></td>
+<td width="50%"><img src="media/hero.jpg" alt="Elemental Trial"></td>
+</tr>
+<tr>
+<td>Collect every mech to awaken the <b>four Elementals</b> — Ignis, Terra, Maelstrom and Zephyr, the toughest frames in the game.</td>
+<td>Unlock each one by beating its <b>Elemental Trial</b>: a 1v1 against a towering mega titan, one life, three minutes.</td>
+</tr>
+<tr>
+<td><img src="media/dash.jpg" alt="Ignis dash"></td>
+<td><img src="media/victory.jpg" alt="Mega titan defeated"></td>
+</tr>
+<tr>
+<td>Every mech has its own <b>gear</b>, a signature upgrade bought at max power — plus brand-new dash trails and victory poses.</td>
+<td>A new <b>anti-cheat</b>: the host referees every shot, hit and move, and cheaters are removed from the match.</td>
+</tr>
+</table>
 
 ---
 
-## Progression
+## ⚔️ The game
 
-Ironvale Protocol combines competitive progression with collection mechanics.
+The Titan Circuit is an industrial ring world at war. The Ironvale Compact fights the corrupted Hollow Choir for its foundries — and every battle is fought by mechs.
 
-Earn rewards by:
+- **35 mechs** across seven rarities, from Common to Ultra Legendary and Elemental — tanks, bruisers, snipers, assassins, artillery, support and skirmishers. **No two share an attack or a dash.**
+- **Hidden Godly pilots** that fight on foot and summon their own mega mech.
+- **Modes:** 1v1 Duel, 2v2, 3v3 team battles, Showdown, Ranked (Bronze → Godly → Unmatched) and PvE contracts.
+- **Progression:** trophy road, power levels, Chaos Drops, daily quests, a season pass, skins and gears.
+- **Online:** cross-play between Windows, Android and the browser, parties, friends and cloud saves.
+- **Controls:** keyboard and mouse, controller, or twin-stick touch controls on phones.
 
-- Winning PvP Matches
-- Completing Contracts
-- Finishing Quests
-- Advancing Trophy Road
-- Opening Chaos Drops
-
-Unlock:
-
-- New Mechs
-- Resources
-- Cosmetics
-- Upgrades
-- Rare and Legendary Frames
-
----
-
-## Multiplayer
-
-Battle with players across multiple platforms.
-
-### Supported Platforms
-
-- Windows
-- Android
-- WebGL
-
-### Modes
-
-- 1v1 Duel
-- 2v2 Arena
-- 3v3 Team Battles
-- Showdown
-- Ranked Modes
-- PvE Missions
+<table>
+<tr>
+<td width="50%"><img src="media/lobby.jpg" alt="Lobby with Ragnarok"></td>
+<td width="50%"><img src="media/mechs.jpg" alt="Mech collection"></td>
+</tr>
+<tr>
+<td align="center"><i>Ragnarok, the Ultra Legendary worldsplitter</i></td>
+<td align="center"><i>Collect, upgrade and gear up your frames</i></td>
+</tr>
+<tr>
+<td><img src="media/mega.jpg" alt="Mega mech fight"></td>
+<td><img src="media/drop.jpg" alt="Chaos Drop"></td>
+</tr>
+<tr>
+<td align="center"><i>Team battles with supers and mega mechs</i></td>
+<td align="center"><i>Chaos Drops — what's inside?</i></td>
+</tr>
+<tr>
+<td><img src="media/touch.jpg" alt="Touch controls"></td>
+<td><img src="media/pve.jpg" alt="PvE contract"></td>
+</tr>
+<tr>
+<td align="center"><i>Twin-stick touch controls on Android</i></td>
+<td align="center"><i>PvE contracts in the foundry sectors</i></td>
+</tr>
+</table>
 
 ---
 
-## Technical Highlights
+## 📥 Install
 
-Built with Unity and designed around a flexible command-driven architecture.
+| Platform | How |
+|---|---|
+| **Windows** | Download [`IronvaleProtocol_Setup.exe`](https://github.com/Da-coding-pro/IronvaleProtocol-releases/releases/latest/download/IronvaleProtocol_Setup.exe) and run it. If SmartScreen appears, choose *More info → Run anyway*. |
+| **Android** | Download [`IronvaleProtocol.apk`](https://github.com/Da-coding-pro/IronvaleProtocol-releases/releases/latest/download/IronvaleProtocol.apk) on your phone and open it (allow installs from your browser when asked). |
+| **Browser** | [Play now](https://da-coding-pro.github.io/IronvaleProtocol-releases/play/) — no install. Works best in Chrome or Edge on desktop. |
 
-### Systems
+Already playing? The game tells you when an update is out — press **UPDATE NOW**.
 
-- Multiplayer Networking
-- Account System
-- Cross-Platform Play
-- Cloud Saves
-- Input Abstraction Layer
-- Automated Validation
-- Automated Playtesting
-- Bot and Autopilot Framework
-- Continuous Build Support
+## 🎮 Controls
 
-### Input Support
+| Action | Keyboard & mouse | Touch |
+|---|---|---|
+| Move | WASD | Left stick |
+| Aim / attack | Mouse / left click | Right stick |
+| Heavy weapon | Right click | Heavy button |
+| Dash | Space | Dash button |
+| Super | Q | Super button |
 
-All gameplay actions flow through a unified command system, allowing:
+## 🗺️ Roadmap
 
-- Keyboard & Mouse
-- Controller
-- Touch Controls
-- AI Players
-- Future Network-Controlled Agents
+New mechs and arenas · seasonal content · competitive events · more PvE contracts.
 
-to interact using the same gameplay pipeline.
+See the [release notes](https://github.com/Da-coding-pro/IronvaleProtocol-releases/releases) for everything that changed in each build.
 
 ---
 
-## Screenshots
-
-_Add screenshots here._
-
-| Arena | Combat |
-|--------|--------|
-| Screenshot | Screenshot |
-
----
-
-## Roadmap
-
-- Additional Mechs
-- New Arenas
-- Expanded Ranked Systems
-- Seasonal Content
-- Competitive Events
-- More PvE Content
-
----
-
-## Development
-
-Ironvale Protocol is actively developed as an ambitious solo indie project leveraging modern AI-assisted workflows and extensive automated testing.
-
----
-
-## Download
-
-Latest releases are available here:
-
-https://github.com/Da-coding-pro/IronvaleProtocol-releases/releases
-
----
-
-## Join The Circuit
-
-Build your roster.
-
-Master your mech.
-
-Fight for Ironvale.
+<p align="center"><sub>Built with Unity 6 by <b>Arcsteel Reactor Studios</b>. This repository hosts the game's public builds; the source is private.</sub></p>
