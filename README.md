@@ -1,16 +1,18 @@
 <p align="center">
-  <img src="media/banner.jpg" alt="Ironvale" width="100%">
+  <img src="media/banner.jpg" alt="Ironvale, a free mech arena game" width="100%">
 </p>
 
+<h1 align="center">Ironvale</h1>
+
 <p align="center">
-  <a href="https://github.com/Da-coding-pro/Ironvale-releases/releases/latest/download/Ironvale_Setup.exe"><img src="https://img.shields.io/badge/Windows-Download-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Download for Windows"></a>
-  <a href="https://github.com/Da-coding-pro/Ironvale-releases/releases/latest/download/Ironvale.apk"><img src="https://img.shields.io/badge/Android-Download_APK-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Download for Android"></a>
+  <a href="https://github.com/Da-coding-pro/Ironvale/releases/latest/download/Ironvale_Setup.exe"><img src="https://img.shields.io/badge/Windows-Download-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Download for Windows"></a>
+  <a href="https://github.com/Da-coding-pro/Ironvale/releases/latest/download/Ironvale.apk"><img src="https://img.shields.io/badge/Android-Download_APK-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Download for Android"></a>
   <a href="https://ironvale.gmicrosystem.com/play/"><img src="https://img.shields.io/badge/Browser-Play_now-FFB000?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Play in your browser"></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Da-coding-pro/Ironvale-releases/releases/latest"><img src="https://img.shields.io/github/v/release/Da-coding-pro/Ironvale-releases?style=flat-square&label=latest&color=ffb000" alt="Latest release"></a>
-  <a href="https://github.com/Da-coding-pro/Ironvale-releases/releases"><img src="https://img.shields.io/github/downloads/Da-coding-pro/Ironvale-releases/total?style=flat-square&color=2ea043" alt="Downloads"></a>
+  <a href="https://github.com/Da-coding-pro/Ironvale/releases/latest"><img src="https://img.shields.io/github/v/release/Da-coding-pro/Ironvale?style=flat-square&label=latest&color=ffb000" alt="Latest release"></a>
+  <a href="https://github.com/Da-coding-pro/Ironvale/releases"><img src="https://img.shields.io/github/downloads/Da-coding-pro/Ironvale/total?style=flat-square&color=2ea043" alt="Downloads"></a>
   <img src="https://img.shields.io/badge/engine-Unity_6-222?style=flat-square&logo=unity" alt="Unity 6">
   <img src="https://img.shields.io/badge/cross--play-Windows_·_Android_·_Web-4c6ef5?style=flat-square" alt="Cross-play">
 </p>
@@ -166,8 +168,8 @@ The Titan Circuit is an industrial ring world at war. The Ironvale Compact fight
 
 | Platform | How |
 |---|---|
-| **Windows** | Download [`Ironvale_Setup.exe`](https://github.com/Da-coding-pro/Ironvale-releases/releases/latest/download/Ironvale_Setup.exe) and run it. If SmartScreen appears, choose *More info → Run anyway*. |
-| **Android** | Download [`Ironvale.apk`](https://github.com/Da-coding-pro/Ironvale-releases/releases/latest/download/Ironvale.apk) on your phone and open it (allow installs from your browser when asked). |
+| **Windows** | Download [`Ironvale_Setup.exe`](https://github.com/Da-coding-pro/Ironvale/releases/latest/download/Ironvale_Setup.exe) and run it. If SmartScreen appears, choose *More info → Run anyway*. |
+| **Android** | Download [`Ironvale.apk`](https://github.com/Da-coding-pro/Ironvale/releases/latest/download/Ironvale.apk) on your phone and open it (allow installs from your browser when asked). |
 | **Browser** | [Play now](https://ironvale.gmicrosystem.com/play/) — no install. Works best in Chrome or Edge on desktop. |
 
 Already playing? The game tells you when an update is out — press **UPDATE NOW**.
@@ -186,7 +188,7 @@ Already playing? The game tells you when an update is out — press **UPDATE NOW
 
 New mechs and arenas · seasonal content · competitive events · more PvE contracts.
 
-See the [release notes](https://github.com/Da-coding-pro/Ironvale-releases/releases) for everything that changed in each build.
+See the [release notes](https://github.com/Da-coding-pro/Ironvale/releases) for everything that changed in each build.
 
 ---
 

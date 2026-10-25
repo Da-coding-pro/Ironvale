@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ironvale.gmicrosystem.com/sitemap.xml
