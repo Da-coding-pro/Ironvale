@@ -63,7 +63,7 @@ h3 { font-size: 1.2rem; }
 .brand { display: flex; align-items: center; gap: 10px; color: var(--text); text-decoration: none; font: 700 1.2rem var(--display); letter-spacing: 0.12em; }
 .brand img { border-radius: 8px; }
 .nav-links { display: flex; align-items: center; gap: 4px; margin-left: auto; }
-.nav-links a { color: var(--muted); text-decoration: none; font-weight: 500; font-size: 0.93rem; padding: 8px 12px; border-radius: 8px; display: inline-flex; align-items: center; gap: 6px; }
+.nav-links a { color: var(--muted); text-decoration: none; font-weight: 500; font-size: 0.93rem; padding: 8px 12px; border-radius: 8px; white-space: nowrap; display: inline-flex; align-items: center; gap: 6px; }
 .nav-links a:hover { color: var(--text); background: rgba(255, 255, 255, 0.06); }
 .nav-play { padding: 10px 16px; }
 .nav-toggle { display: none; margin-left: auto; width: 42px; height: 42px; background: none; border: 1px solid var(--line); border-radius: 10px; padding: 0; cursor: pointer; flex-direction: column; justify-content: center; align-items: center; gap: 5px; }
@@ -72,7 +72,7 @@ h3 { font-size: 1.2rem; }
 .nav.open .nav-toggle span:nth-child(2) { opacity: 0; }
 .nav.open .nav-toggle span:nth-child(3) { transform: translateY(-7px) rotate(-45deg); }
 
-@media (max-width: 860px) {
+@media (max-width: 1080px) {
   .nav-inner { gap: 12px; padding: 0 16px; }
   .nav-toggle { display: flex; }
   .nav-links {
