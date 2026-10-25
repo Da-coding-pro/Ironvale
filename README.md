@@ -201,6 +201,10 @@ See the [release notes](https://github.com/Da-coding-pro/Ironvale-releases/relea
 
 Read the full terms in [LICENSE.md](LICENSE.md).
 
+## 🔒 Privacy
+
+What the game stores and sends: [Privacy Policy](https://ironvale.gmicrosystem.com/privacy/).
+
 ---
 
 <p align="center"><sub>© 2026 Arcsteel Reactor Studios. Built with Unity 6. This repository hosts the game's official builds only; the source code is private and not licensed.</sub></p>
