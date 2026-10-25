@@ -2,8 +2,6 @@
   <img src="media/banner.jpg" alt="Ironvale, a free mech arena game" width="100%">
 </p>
 
-<h1 align="center">Ironvale</h1>
-
 <p align="center">
   <a href="https://github.com/Da-coding-pro/Ironvale/releases/latest/download/Ironvale_Setup.exe"><img src="https://img.shields.io/badge/Windows-Download-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Download for Windows"></a>
   <a href="https://github.com/Da-coding-pro/Ironvale/releases/latest/download/Ironvale.apk"><img src="https://img.shields.io/badge/Android-Download_APK-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Download for Android"></a>
