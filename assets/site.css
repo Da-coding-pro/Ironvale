@@ -155,6 +155,8 @@ figcaption { color: var(--muted); font-size: 0.92rem; margin-top: 10px; }
 .platform .btn { align-self: flex-start; }
 .platform.suggested { border-color: rgba(255, 176, 0, 0.55); }
 .platform.suggested::after { content: "YOUR DEVICE"; position: absolute; top: 18px; right: 18px; font: 600 0.68rem var(--display); letter-spacing: 0.12em; color: var(--accent); }
+.itch-widget { display: flex; justify-content: center; margin-top: 32px; }
+.itch-widget iframe { width: 552px; max-width: 100%; border: 0; border-radius: var(--radius); }
 .note { color: var(--muted); margin-top: 28px; text-align: center; }
 
 .table-wrap { overflow-x: auto; margin-top: 24px; border: 1px solid var(--line); border-radius: var(--radius); }
