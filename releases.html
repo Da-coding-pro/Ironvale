@@ -1,0 +1,30 @@
+---
+title: Releases
+description: Every Ironvale release with its patch notes and downloads for Windows, Android and the browser.
+permalink: /releases/
+---
+<p class="eyebrow">Release notes</p>
+<h1>All releases</h1>
+<p>Every version of Ironvale, newest first. Already playing? The game tells you when an update is out. Just press <strong>UPDATE NOW</strong>.</p>
+
+{% for r in site.data.releases %}
+<section class="release" id="{{ r.tag }}">
+  <header class="release-head">
+    <h2><a href="#{{ r.tag }}">{{ r.name }}</a></h2>
+    <span class="news-ver">{{ r.tag }}</span>
+    {% if forloop.first %}<span class="release-latest">LATEST</span>{% endif %}
+    <time datetime="{{ r.date }}">{{ r.date | date: "%-d %B %Y" }}</time>
+  </header>
+  {% if r.assets.size > 0 %}
+  <div class="release-files">
+    {% for a in r.assets %}
+      {% if a.name contains ".exe" %}{% assign label = "Windows installer" %}{% elsif a.name contains ".apk" %}{% assign label = "Android APK" %}{% elsif a.name contains ".zip" %}{% assign label = "Browser build (zip)" %}{% else %}{% assign label = a.name %}{% endif %}
+    <a class="btn {% if forloop.parentloop.first %}btn-primary{% else %}btn-ghost{% endif %}" href="{{ a.url }}">{{ label }} <small>{{ a.size | divided_by: 1048576 }} MB</small></a>
+    {% endfor %}
+  </div>
+  {% endif %}
+  <div class="release-notes">{{ r.body | markdownify }}</div>
+</section>
+{% endfor %}
+
+<p class="note">These notes are also on <a href="https://github.com/Da-coding-pro/Ironvale/releases">GitHub Releases</a>.</p>
