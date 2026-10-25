@@ -20,6 +20,19 @@
 
 ---
 
+## 💥 New in 2.0.2 — Heavy Metal: Every Mech Hits Harder
+
+Fights were running long, so the whole roster just got heavier fists.
+
+- **Every mech deals about 16% more damage.** The collection-wide damage boost goes from x1.6 to **x1.85**: attacks, heavy weapons and supers all land harder, so duels end faster and every hit counts.
+- **Bastion gets a big extra punch.** On top of the global boost, Bastion's own damage goes up x1.25, **about 45% harder in total**. The starter tank is now a real threat.
+- **Basic training for new pilots.** First-time players get a guided training match, a tour of the hangar and tips during their first matches.
+- **Still plays with 2.0 and 2.0.1.** Mixed matches work, and the anti-cheat already allows for the new numbers. Campaign enemies are unchanged.
+
+<p align="center"><img src="media/fusion_battle.jpg" alt="Titans trading heavy hits" width="80%"><br><sub>Same mechs, bigger hits. Update in game with <b>UPDATE NOW</b>, or grab 2.0.2 from <a href="https://github.com/Da-coding-pro/Ironvale/releases/latest">Releases</a>.</sub></p>
+
+---
+
 ## 🌀 New in 2.0 — Titan Fusion & the Elemental Gauntlet
 
 ### Titan Fusion — a new 1v1 mode
