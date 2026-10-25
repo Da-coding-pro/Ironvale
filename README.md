@@ -29,7 +29,7 @@ Fights were running long, so the whole roster just got heavier fists.
 - **Basic training for new pilots.** First-time players get a guided training match, a tour of the hangar and tips during their first matches.
 - **Still plays with 2.0 and 2.0.1.** Mixed matches work, and the anti-cheat already allows for the new numbers. Campaign enemies are unchanged.
 
-<p align="center"><img src="media/fusion_battle.jpg" alt="Titans trading heavy hits" width="80%"><br><sub>Same mechs, bigger hits. Update in game with <b>UPDATE NOW</b>, or grab 2.0.2 from <a href="https://github.com/Da-coding-pro/Ironvale/releases/latest">Releases</a>.</sub></p>
+<p align="center"><img src="media/fusion_countdown.jpg" alt="A fusion titan powering up before the countdown ends" width="80%"><br><sub>Weapons hot on zero, and every one of them hits harder now. Update in game with <b>UPDATE NOW</b>, or grab 2.0.2 from <a href="https://github.com/Da-coding-pro/Ironvale/releases/latest">Releases</a>.</sub></p>
 
 ---
 
