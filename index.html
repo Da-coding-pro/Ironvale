@@ -1,0 +1,188 @@
+---
+layout: default
+---
+{% assign dl = "https://github.com/Da-coding-pro/Ironvale/releases/latest/download/" %}
+<section class="hero">
+  <div class="hero-bg" aria-hidden="true"></div>
+  <div class="hero-inner">
+    <a class="pill" id="release-pill" href="https://github.com/Da-coding-pro/Ironvale/releases/latest">
+      <span class="pill-tag">NEW</span>
+      <span id="release-text">2.0.2: tutorial for new pilots, harder-hitting mechs</span>
+      <span aria-hidden="true">→</span>
+    </a>
+    <h1 class="hero-title">IRONVALE</h1>
+    <p class="hero-lead">A fast top-down mech arena brawler. Pick a combat frame, drop into the arena and fight players on PC, phone and browser, all in the same match.</p>
+    <div class="hero-cta">
+      <a class="btn btn-primary btn-lg" href="{{ '/play/' | relative_url }}">
+        <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path fill="currentColor" d="M8 5v14l11-7z"/></svg>
+        Play free in your browser
+      </a>
+      <a class="btn btn-ghost btn-lg" id="hero-download" href="#download">Download for PC &amp; Android</a>
+    </div>
+    <ul class="hero-facts">
+      <li><strong>40</strong> mechs</li>
+      <li><strong>1v1 to 3v3</strong> battles</li>
+      <li><strong>3</strong> platforms, one match</li>
+      <li><strong>Free</strong> to play</li>
+    </ul>
+  </div>
+</section>
+
+<section class="section" id="new">
+  <div class="container">
+    <p class="eyebrow">What's new</p>
+    <h2>Latest updates</h2>
+    <div class="news">
+      <article class="news-card">
+        <span class="news-ver">2.0.2</span>
+        <h3>Basic training &amp; heavier hitters</h3>
+        <p>New pilots get a guided training match, a tour of the hangar and tips in their first matches. Every mech hits about 16% harder, and Bastion about 45%.</p>
+      </article>
+      <article class="news-card">
+        <span class="news-ver">2.0</span>
+        <h3>Titan Fusion</h3>
+        <p>Pick five mechs. They dive together and burst out as one mega titan that fires every attack and super they carry. First to 2 takedowns.</p>
+      </article>
+      <article class="news-card">
+        <span class="news-ver">2.0</span>
+        <h3>The Elemental Gauntlet</h3>
+        <p>Beat mega Ignis, Terra, Maelstrom and Zephyr in a row, then face Aether, the Fifth Element. Win and Aether joins your hangar.</p>
+      </article>
+    </div>
+    <div class="feature-media">
+      <figure><img src="{{ '/media/fusion_burst.jpg' | relative_url }}" alt="Five mechs fuse into a titan" loading="lazy"><figcaption>Five picks dive in and fuse…</figcaption></figure>
+      <figure><img src="{{ '/media/fusion_battle.jpg' | relative_url }}" alt="Titan against titan" loading="lazy"><figcaption>…then titan fights titan, every weapon at once.</figcaption></figure>
+    </div>
+  </div>
+</section>
+
+<section class="section section-alt" id="game">
+  <div class="container">
+    <p class="eyebrow">The game</p>
+    <h2>Built for quick, loud fights</h2>
+    <p class="section-lead">The Titan Circuit is an industrial ring world at war. The Ironvale Compact fights the corrupted Hollow Choir for its foundries, and every battle is fought by mechs.</p>
+    <div class="features">
+      <div class="feature">
+        <div class="feature-icon">⚙</div>
+        <h3>40 unique mechs</h3>
+        <p>Seven rarities, from Common to Ultra Legendary and Elemental. No two share an attack or a dash.</p>
+      </div>
+      <div class="feature">
+        <div class="feature-icon">⚔</div>
+        <h3>Every way to fight</h3>
+        <p>1v1 Duel, 2v2, 3v3, Showdown, Titan Fusion, Ranked from Bronze to Unmatched, and PvE contracts.</p>
+      </div>
+      <div class="feature">
+        <div class="feature-icon">⇄</div>
+        <h3>True cross-play</h3>
+        <p>Windows, Android and browser players meet in the same matches, with parties, friends and cloud saves.</p>
+      </div>
+      <div class="feature">
+        <div class="feature-icon">★</div>
+        <h3>Real progression</h3>
+        <p>Trophy road, power levels, Forged Rewards, daily quests, a season pass, skins and signature gears.</p>
+      </div>
+      <div class="feature">
+        <div class="feature-icon">◎</div>
+        <h3>Hidden pilots</h3>
+        <p>Godly pilots fight on foot and call in their own mega mech when the fight turns.</p>
+      </div>
+      <div class="feature">
+        <div class="feature-icon">✋</div>
+        <h3>Play your way</h3>
+        <p>Keyboard and mouse, a controller, or twin-stick touch controls on your phone.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section" id="gallery">
+  <div class="container">
+    <p class="eyebrow">Screenshots</p>
+    <h2>See it in action</h2>
+    <div class="gallery">
+      {% assign shots = "lobby:Ragnarok, the Ultra Legendary worldsplitter|mega:Team battles with supers and mega mechs|aether:Aether, the Fifth Element|oblivion_super:Oblivion's Event Horizon|mechs:Collect, upgrade and gear up|forge_strike:Forged Rewards on the anvil|touch:Twin-stick touch controls|gauntlet:The Elemental Gauntlet|pve:PvE contracts in the foundry sectors" | split: "|" %}
+      {% for s in shots %}{% assign p = s | split: ":" %}
+      <a class="shot" href="{{ '/media/' | append: p[0] | append: '.jpg' | relative_url }}">
+        <img src="{{ '/media/' | append: p[0] | append: '.jpg' | relative_url }}" alt="{{ p[1] }}" loading="lazy">
+        <span>{{ p[1] }}</span>
+      </a>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+<section class="section section-alt" id="download">
+  <div class="container">
+    <p class="eyebrow">Get the game</p>
+    <h2>Free on every platform</h2>
+    <div class="platforms">
+      <div class="platform" data-os="web">
+        <h3>Browser</h3>
+        <p>No install. Works best in Chrome or Edge on a computer.</p>
+        <a class="btn btn-primary" href="{{ '/play/' | relative_url }}">Play now</a>
+      </div>
+      <div class="platform" data-os="windows">
+        <h3>Windows</h3>
+        <p>Run the installer. If SmartScreen appears, choose <em>More info → Run anyway</em>.</p>
+        <a class="btn btn-ghost" href="{{ dl }}Ironvale_Setup.exe">Download installer</a>
+      </div>
+      <div class="platform" data-os="android">
+        <h3>Android</h3>
+        <p>Open the APK on your phone and allow installs from your browser when asked.</p>
+        <a class="btn btn-ghost" href="{{ dl }}Ironvale.apk">Download APK</a>
+      </div>
+    </div>
+    <p class="note">Already playing? The game tells you when an update is out. Just press <strong>UPDATE NOW</strong>.</p>
+  </div>
+</section>
+
+<section class="section" id="controls">
+  <div class="container narrow">
+    <p class="eyebrow">Controls</p>
+    <h2>Easy to pick up</h2>
+    <div class="table-wrap">
+      <table class="controls">
+        <thead><tr><th>Action</th><th>Keyboard &amp; mouse</th><th>Touch</th></tr></thead>
+        <tbody>
+          <tr><td>Move</td><td><kbd>W</kbd><kbd>A</kbd><kbd>S</kbd><kbd>D</kbd></td><td>Left stick</td></tr>
+          <tr><td>Aim &amp; attack</td><td>Mouse, left click</td><td>Right stick</td></tr>
+          <tr><td>Heavy weapon</td><td>Right click</td><td>Heavy button</td></tr>
+          <tr><td>Dash</td><td><kbd>Space</kbd></td><td>Dash button</td></tr>
+          <tr><td>Super</td><td><kbd>Q</kbd></td><td>Super button</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</section>
+
+<section class="cta-band">
+  <div class="container">
+    <h2>Your mech is warmed up.</h2>
+    <a class="btn btn-primary btn-lg" href="{{ '/play/' | relative_url }}">Play Ironvale now</a>
+  </div>
+</section>
+
+<script>
+  (function () {
+    var ua = navigator.userAgent;
+    var os = /Android/i.test(ua) ? 'android' : /Windows/i.test(ua) ? 'windows' : null;
+    var dl = '{{ dl }}';
+    if (os) {
+      var b = document.getElementById('hero-download');
+      b.textContent = os === 'android' ? 'Download for Android' : 'Download for Windows';
+      b.href = dl + (os === 'android' ? 'Ironvale.apk' : 'Ironvale_Setup.exe');
+      var card = document.querySelector('.platform[data-os="' + os + '"]');
+      if (card) card.classList.add('suggested');
+    }
+    fetch('https://api.github.com/repos/Da-coding-pro/Ironvale/releases/latest')
+      .then(function (r) { return r.ok ? r.json() : null; })
+      .then(function (r) {
+        if (!r || !r.tag_name) return;
+        var v = r.tag_name.replace(/^v/, '');
+        if (document.getElementById('release-text').textContent.indexOf(v) !== 0)
+          document.getElementById('release-text').textContent = 'Version ' + v + ' is out: see what changed';
+      })
+      .catch(function () {});
+  })();
+</script>
