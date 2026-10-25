@@ -19,3 +19,9 @@ twitter:
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
+# Keep the Search Console verification file out of the sitemap.
+defaults:
+  - scope:
+      path: googlec7b03c28792fad6a.html
+    values:
+      sitemap: false
