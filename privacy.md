@@ -11,7 +11,7 @@ Ironvale is made by Arcsteel Reactor Studios. This page explains what the game s
 
 ## In short
 
-- You play as a guest. The game does not ask for your email address, real name, phone number or location.
+- You play as a guest; an account (a username and password) is optional. The game never asks for your email address, real name, phone number or location.
 - There are no ads, no advertising trackers and no real-money purchases.
 - We do not sell or share your data for marketing.
 - Online features run on Unity Gaming Services, which processes the data needed to make them work.
