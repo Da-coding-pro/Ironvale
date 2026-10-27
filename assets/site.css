@@ -126,7 +126,7 @@ h3 { font-size: 1.2rem; }
 .eyebrow { color: var(--accent); font: 600 0.8rem var(--display); letter-spacing: 0.2em; text-transform: uppercase; margin: 0 0 10px; }
 .section-lead { color: var(--muted); max-width: 720px; font-size: 1.08rem; margin: 0 0 40px; }
 
-.news { display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; margin: 32px 0; }
+.news { display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; margin: 32px 0; }
 .news-card { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: 24px; }
 .news-card:first-child { border-color: rgba(255, 176, 0, 0.45); background: linear-gradient(160deg, rgba(255, 176, 0, 0.1), var(--surface) 60%); }
 .news-card p { color: var(--muted); margin: 0; }

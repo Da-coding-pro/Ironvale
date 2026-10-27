@@ -7,13 +7,13 @@ layout: default
   <div class="hero-inner">
     <a class="pill" id="release-pill" href="{{ '/releases/' | relative_url }}">
       <span class="pill-tag">NEW</span>
-      <span id="release-text">2.0.2: tutorial for new pilots, harder-hitting mechs</span>
+      <span id="release-text">2.1: shared Squad Cubes and Fusion fixes</span>
       <span aria-hidden="true">→</span>
     </a>
     <h1 class="hero-title">IRONVALE</h1>
     <p class="hero-lead">A fast top-down mech arena brawler. Pick a combat frame, drop into the arena and fight players on PC, phone and browser, all in the same match.</p>
     <div class="hero-cta">
-      <a class="btn btn-primary btn-lg" href="{{ '/play/' | relative_url }}">
+      <a class="btn btn-primary btn-lg" href="{{ site.play_url }}">
         <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path fill="currentColor" d="M8 5v14l11-7z"/></svg>
         Play free in your browser
       </a>
@@ -34,6 +34,11 @@ layout: default
     <h2>Latest updates</h2>
     <p class="section-lead"><a href="{{ '/releases/' | relative_url }}">See every release and its patch notes →</a></p>
     <div class="news">
+      <article class="news-card">
+        <span class="news-ver">2.1</span>
+        <h3>Squad Cubes</h3>
+        <p>In Duo and Trio Showdown, Power Cubes now power up your whole squad, with no 12-cube cap. Plus a new cube look, Fusion picker and Settings fixes.</p>
+      </article>
       <article class="news-card">
         <span class="news-ver">2.0.2</span>
         <h3>Basic training &amp; heavier hitters</h3>
@@ -120,8 +125,8 @@ layout: default
     <div class="platforms">
       <div class="platform" data-os="web">
         <h3>Browser</h3>
-        <p>No install. Works best in Chrome or Edge on a computer.</p>
-        <a class="btn btn-primary" href="{{ '/play/' | relative_url }}">Play now</a>
+        <p>No install. Play free on CrazyGames, best in Chrome or Edge on a computer.</p>
+        <a class="btn btn-primary" href="{{ site.play_url }}">Play now</a>
       </div>
       <div class="platform" data-os="windows">
         <h3>Windows</h3>
@@ -163,7 +168,7 @@ layout: default
 <section class="cta-band">
   <div class="container">
     <h2>Your mech is warmed up.</h2>
-    <a class="btn btn-primary btn-lg" href="{{ '/play/' | relative_url }}">Play Ironvale now</a>
+    <a class="btn btn-primary btn-lg" href="{{ site.play_url }}">Play Ironvale now</a>
   </div>
 </section>
 

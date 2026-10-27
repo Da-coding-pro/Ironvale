@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://github.com/Da-coding-pro/Ironvale/releases/latest/download/Ironvale_Setup.exe"><img src="https://img.shields.io/badge/Windows-Download-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Download for Windows"></a>
   <a href="https://github.com/Da-coding-pro/Ironvale/releases/latest/download/Ironvale.apk"><img src="https://img.shields.io/badge/Android-Download_APK-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Download for Android"></a>
-  <a href="https://ironvale.gmicrosystem.com/play/"><img src="https://img.shields.io/badge/Browser-Play_now-FFB000?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Play in your browser"></a>
+  <a href="https://www.crazygames.com/game/ironvale"><img src="https://img.shields.io/badge/Browser-Play_now-FFB000?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Play in your browser"></a>
   <a href="https://arcsteel-reactor-studios.itch.io/ironvale"><img src="https://img.shields.io/badge/itch.io-Ironvale-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Ironvale on itch.io"></a>
 </p>
 
@@ -182,7 +182,7 @@ The Titan Circuit is an industrial ring world at war. The Ironvale Compact fight
 |---|---|
 | **Windows** | Download [`Ironvale_Setup.exe`](https://github.com/Da-coding-pro/Ironvale/releases/latest/download/Ironvale_Setup.exe) and run it. If SmartScreen appears, choose *More info → Run anyway*. |
 | **Android** | Download [`Ironvale.apk`](https://github.com/Da-coding-pro/Ironvale/releases/latest/download/Ironvale.apk) on your phone and open it (allow installs from your browser when asked). |
-| **Browser** | [Play now](https://ironvale.gmicrosystem.com/play/) — no install. Works best in Chrome or Edge on desktop. |
+| **Browser** | [Play now](https://www.crazygames.com/game/ironvale) — no install. Works best in Chrome or Edge on desktop. |
 | **itch.io** | [Ironvale on itch.io](https://arcsteel-reactor-studios.itch.io/ironvale) — play in the browser or grab the Windows and Android builds. |
 
 Already playing? The game tells you when an update is out — press **UPDATE NOW**.
