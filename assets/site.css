@@ -168,6 +168,8 @@ kbd { display: inline-block; min-width: 26px; text-align: center; padding: 2px 7
 
 .cta-band { padding: 88px 0; text-align: center; background: radial-gradient(ellipse at 50% 0%, rgba(255, 140, 0, 0.18), transparent 65%), var(--bg); }
 .cta-band h2 { margin-bottom: 24px; }
+.cta-band .container { display: flex; flex-direction: column; align-items: center; }
+.cta-band .container > .btn + .btn { margin-top: 12px; }
 
 /* Text pages (privacy etc.) */
 .prose { max-width: 780px; margin: 0 auto; padding: 56px 24px 88px; }
