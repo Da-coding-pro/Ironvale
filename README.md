@@ -20,6 +20,20 @@
 
 ---
 
+## 🧊 New in 2.1 — Squad Cubes: Power Up Together
+
+Showdown just became a team game.
+
+- **Shared Power Cubes.** In Duo and Trio Showdown, every cube you grab raises your **whole squad's** level and boosts every living teammate. Deaths and respawns keep the squad in step.
+- **No more cap.** The 12-cube limit is gone: keep collecting and the bonuses keep stacking.
+- **A cube worth chasing.** Power Cubes are now bigger, spinning, with a bright energy core and a pulsing halo.
+- **Fusion picker fixed.** Every mech you own, including gifted and exclusive ones, can now be picked for Titan Fusion.
+- **Settings fixed.** The list scrolls when it doesn't fit, and the bottom buttons no longer overlap.
+
+> ⚠️ 2.0.x and 2.1 can't play online together. Press **UPDATE NOW** in game or grab 2.1 from [Releases](https://github.com/Da-coding-pro/Ironvale/releases/latest).
+
+---
+
 ## 💥 New in 2.0.2 — Heavy Metal: Every Mech Hits Harder
 
 Fights were running long, so the whole roster just got heavier fists.
