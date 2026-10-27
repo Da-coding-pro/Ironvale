@@ -72,7 +72,7 @@ h3 { font-size: 1.2rem; }
 .nav.open .nav-toggle span:nth-child(2) { opacity: 0; }
 .nav.open .nav-toggle span:nth-child(3) { transform: translateY(-7px) rotate(-45deg); }
 
-@media (max-width: 1180px) {
+@media (max-width: 1280px) {
   .nav-inner { gap: 12px; padding: 0 16px; }
   .nav-toggle { display: flex; }
   .nav-links {
