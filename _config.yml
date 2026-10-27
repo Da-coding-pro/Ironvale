@@ -25,10 +25,6 @@ defaults:
       path: googlec7b03c28792fad6a.html
     values:
       sitemap: false
-  - scope:
-      path: play
-    values:
-      sitemap: false
 
 # Every "Play" button opens the game on CrazyGames.
 play_url: https://www.crazygames.com/game/ironvale
