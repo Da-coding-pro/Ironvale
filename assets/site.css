@@ -241,3 +241,7 @@ kbd { display: inline-block; min-width: 26px; text-align: center; padding: 2px 7
 .community-card span { opacity: .85; font-size: .95rem; }
 @media (max-width: 1279px) { .nav-links a.social { border-radius: 0; justify-content: flex-start; margin: 4px 0; border-radius: 8px; } }
 .section-tight { padding-top: 48px; padding-bottom: 48px; }
+.hero-social { margin: 18px 0 0; color: var(--muted); font-size: .98rem; }
+.hero-social a { font-weight: 700; text-decoration: none; }
+.hero-social a.discord { color: #8c95ff; } .hero-social a.youtube { color: #ff4d6a; }
+.hero-social a:hover { text-decoration: underline; }
