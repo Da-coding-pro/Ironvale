@@ -8,6 +8,7 @@
   <a href="https://www.crazygames.com/game/ironvale"><img src="https://img.shields.io/badge/Browser-Play_now-FFB000?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Play in your browser"></a>
   <a href="https://arcsteel-reactor-studios.itch.io/ironvale"><img src="https://img.shields.io/badge/itch.io-Ironvale-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Ironvale on itch.io"></a>
   <a href="https://discord.gg/e2WQQWfSRm"><img src="https://img.shields.io/badge/Discord-Join_the_server-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join the Ironvale Discord"></a>
+  <a href="https://www.youtube.com/@ArcsteelReactorStudios"><img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Arcsteel Reactor Studios on YouTube"></a>
 </p>
 
 <p align="center">
@@ -200,6 +201,7 @@ The Titan Circuit is an industrial ring world at war. The Ironvale Compact fight
 | **Browser** | [Play now](https://www.crazygames.com/game/ironvale) — no install. Works best in Chrome or Edge on desktop. |
 | **itch.io** | [Ironvale on itch.io](https://arcsteel-reactor-studios.itch.io/ironvale) — play in the browser or grab the Windows and Android builds. |
 | **Discord** | [Join the Ironvale server](https://discord.gg/e2WQQWfSRm) — patch notes, squads, bug reports and events. |
+| **YouTube** | [Arcsteel Reactor Studios](https://www.youtube.com/@ArcsteelReactorStudios) — trailers, mech showcases and Shorts. |
 
 Already playing? The game tells you when an update is out — press **UPDATE NOW**.
 
