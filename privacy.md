@@ -59,4 +59,4 @@ If this policy changes, the date at the top changes too.
 
 ## Contact
 
-Arcsteel Reactor Studios: open an issue at [github.com/Da-coding-pro/Ironvale/issues](https://github.com/Da-coding-pro/Ironvale/issues).
+Arcsteel Reactor Studios: open an issue at [github.com/arcsteelreactorstudios/Ironvale/issues](https://github.com/arcsteelreactorstudios/Ironvale/issues).

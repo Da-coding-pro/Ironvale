@@ -1,6 +1,6 @@
 # Ironvale — End User Licence Agreement
 
-**Copyright © 2026 Arcsteel Reactor Studios (GitHub: [Da-coding-pro](https://github.com/Da-coding-pro)). All rights reserved.**
+**Copyright © 2026 Arcsteel Reactor Studios (GitHub: [arcsteelreactorstudios](https://github.com/arcsteelreactorstudios)). All rights reserved.**
 
 Ironvale, its builds, code, art, models, music, sound, text, characters, mech designs, logos and names
 (together, **the Game**) are owned by Arcsteel Reactor Studios and protected by copyright and other
@@ -84,4 +84,4 @@ DMCA notices) against copies, rebrands and clones of the Game.
 
 These terms may be updated with new releases; the version in this repository applies. For permissions, licensing or
 reports of copies, open an issue in this repository or contact
-[Da-coding-pro on GitHub](https://github.com/Da-coding-pro).
+[arcsteelreactorstudios on GitHub](https://github.com/arcsteelreactorstudios).

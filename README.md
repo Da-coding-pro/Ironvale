@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Da-coding-pro/Ironvale/releases/latest/download/Ironvale_Setup.exe"><img src="https://img.shields.io/badge/Windows-Download-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Download for Windows"></a>
-  <a href="https://github.com/Da-coding-pro/Ironvale/releases/latest/download/Ironvale.apk"><img src="https://img.shields.io/badge/Android-Download_APK-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Download for Android"></a>
+  <a href="https://github.com/arcsteelreactorstudios/Ironvale/releases/latest/download/Ironvale_Setup.exe"><img src="https://img.shields.io/badge/Windows-Download-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Download for Windows"></a>
+  <a href="https://github.com/arcsteelreactorstudios/Ironvale/releases/latest/download/Ironvale.apk"><img src="https://img.shields.io/badge/Android-Download_APK-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Download for Android"></a>
   <a href="https://www.crazygames.com/game/ironvale"><img src="https://img.shields.io/badge/Browser-Play_now-FFB000?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Play in your browser"></a>
   <a href="https://arcsteel-reactor-studios.itch.io/ironvale"><img src="https://img.shields.io/badge/itch.io-Ironvale-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Ironvale on itch.io"></a>
   <a href="https://discord.gg/e2WQQWfSRm"><img src="https://img.shields.io/badge/Discord-Join_the_server-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join the Ironvale Discord"></a>
@@ -12,8 +12,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Da-coding-pro/Ironvale/releases/latest"><img src="https://img.shields.io/github/v/release/Da-coding-pro/Ironvale?style=flat-square&label=latest&color=ffb000" alt="Latest release"></a>
-  <a href="https://github.com/Da-coding-pro/Ironvale/releases"><img src="https://img.shields.io/github/downloads/Da-coding-pro/Ironvale/total?style=flat-square&color=2ea043" alt="Downloads"></a>
+  <a href="https://github.com/arcsteelreactorstudios/Ironvale/releases/latest"><img src="https://img.shields.io/github/v/release/arcsteelreactorstudios/Ironvale?style=flat-square&label=latest&color=ffb000" alt="Latest release"></a>
+  <a href="https://github.com/arcsteelreactorstudios/Ironvale/releases"><img src="https://img.shields.io/github/downloads/arcsteelreactorstudios/Ironvale/total?style=flat-square&color=2ea043" alt="Downloads"></a>
   <img src="https://img.shields.io/badge/engine-Unity_6-222?style=flat-square&logo=unity" alt="Unity 6">
   <img src="https://img.shields.io/badge/cross--play-Windows_·_Android_·_Web-4c6ef5?style=flat-square" alt="Cross-play">
 </p>
@@ -32,7 +32,7 @@ Showdown just became a team game.
 - **Fusion picker fixed.** Every mech you own, including gifted and exclusive ones, can now be picked for Titan Fusion.
 - **Settings fixed.** The list scrolls when it doesn't fit, and the bottom buttons no longer overlap.
 
-> ⚠️ 2.0.x and 2.1 can't play online together. Press **UPDATE NOW** in game or grab 2.1 from [Releases](https://github.com/Da-coding-pro/Ironvale/releases/latest).
+> ⚠️ 2.0.x and 2.1 can't play online together. Press **UPDATE NOW** in game or grab 2.1 from [Releases](https://github.com/arcsteelreactorstudios/Ironvale/releases/latest).
 
 ---
 
@@ -45,7 +45,7 @@ Fights were running long, so the whole roster just got heavier fists.
 - **Basic training for new pilots.** First-time players get a guided training match, a tour of the hangar and tips during their first matches.
 - **Still plays with 2.0 and 2.0.1.** Mixed matches work, and the anti-cheat already allows for the new numbers. Campaign enemies are unchanged.
 
-<p align="center"><img src="media/squad_clash.jpg" alt="A 3v3 Squad Clash with Aegis Barrier up" width="80%"><br><sub>Squad Clash 3v3: two takedowns in 46 seconds. Fights are faster now. Update in game with <b>UPDATE NOW</b>, or grab 2.0.2 from <a href="https://github.com/Da-coding-pro/Ironvale/releases/latest">Releases</a>.</sub></p>
+<p align="center"><img src="media/squad_clash.jpg" alt="A 3v3 Squad Clash with Aegis Barrier up" width="80%"><br><sub>Squad Clash 3v3: two takedowns in 46 seconds. Fights are faster now. Update in game with <b>UPDATE NOW</b>, or grab 2.0.2 from <a href="https://github.com/arcsteelreactorstudios/Ironvale/releases/latest">Releases</a>.</sub></p>
 
 ---
 
@@ -196,8 +196,8 @@ The Titan Circuit is an industrial ring world at war. The Ironvale Compact fight
 
 | Platform | How |
 |---|---|
-| **Windows** | Download [`Ironvale_Setup.exe`](https://github.com/Da-coding-pro/Ironvale/releases/latest/download/Ironvale_Setup.exe) and run it. If SmartScreen appears, choose *More info → Run anyway*. |
-| **Android** | Download [`Ironvale.apk`](https://github.com/Da-coding-pro/Ironvale/releases/latest/download/Ironvale.apk) on your phone and open it (allow installs from your browser when asked). |
+| **Windows** | Download [`Ironvale_Setup.exe`](https://github.com/arcsteelreactorstudios/Ironvale/releases/latest/download/Ironvale_Setup.exe) and run it. If SmartScreen appears, choose *More info → Run anyway*. |
+| **Android** | Download [`Ironvale.apk`](https://github.com/arcsteelreactorstudios/Ironvale/releases/latest/download/Ironvale.apk) on your phone and open it (allow installs from your browser when asked). |
 | **Browser** | [Play now](https://www.crazygames.com/game/ironvale) — no install. Works best in Chrome or Edge on desktop. |
 | **itch.io** | [Ironvale on itch.io](https://arcsteel-reactor-studios.itch.io/ironvale) — play in the browser or grab the Windows and Android builds. |
 | **Discord** | [Join the Ironvale server](https://discord.gg/e2WQQWfSRm) — patch notes, squads, bug reports and events. |
@@ -219,13 +219,13 @@ Already playing? The game tells you when an update is out — press **UPDATE NOW
 
 New mechs and arenas · seasonal content · competitive events · more PvE contracts.
 
-See the [release notes](https://github.com/Da-coding-pro/Ironvale/releases) for everything that changed in each build.
+See the [release notes](https://github.com/arcsteelreactorstudios/Ironvale/releases) for everything that changed in each build.
 
 ---
 
 ## ⚖️ Licence
 
-**Ironvale is proprietary software — © 2026 Arcsteel Reactor Studios ([Da-coding-pro](https://github.com/Da-coding-pro)). All rights reserved.**
+**Ironvale is proprietary software — © 2026 Arcsteel Reactor Studios ([arcsteelreactorstudios](https://github.com/arcsteelreactorstudios)). All rights reserved.**
 
 - ✅ Download the official builds and play them for personal, non-commercial use.
 - ✅ Use the game's **art** and **names** (mechs, characters, logos, designs) in your own work, as long as you don't

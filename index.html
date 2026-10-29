@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-{% assign dl = "https://github.com/Da-coding-pro/Ironvale/releases/latest/download/" %}
+{% assign dl = "https://github.com/arcsteelreactorstudios/Ironvale/releases/latest/download/" %}
 <section class="hero">
   <div class="hero-bg" aria-hidden="true"></div>
   <div class="hero-inner">
@@ -213,7 +213,7 @@ layout: default
       var card = document.querySelector('.platform[data-os="' + os + '"]');
       if (card) card.classList.add('suggested');
     }
-    fetch('https://api.github.com/repos/Da-coding-pro/Ironvale/releases/latest')
+    fetch('https://api.github.com/repos/arcsteelreactorstudios/Ironvale/releases/latest')
       .then(function (r) { return r.ok ? r.json() : null; })
       .then(function (r) {
         if (!r || !r.tag_name) return;
