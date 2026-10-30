@@ -133,7 +133,7 @@ h3 { font-size: 1.2rem; }
 .news-ver { display: inline-block; font: 600 0.75rem var(--display); letter-spacing: 0.1em; color: var(--accent); border: 1px solid rgba(255, 176, 0, 0.4); border-radius: 6px; padding: 2px 8px; margin-bottom: 14px; }
 
 .trailer { margin-top: 28px; border-radius: var(--radius); overflow: hidden; border: 1px solid var(--line); background: #000; box-shadow: 0 20px 60px rgba(0, 0, 0, 0.45); }
-.trailer video { display: block; width: 100%; height: auto; aspect-ratio: 16 / 9; }
+.trailer iframe { display: block; width: 100%; height: auto; aspect-ratio: 16 / 9; border: 0; }
 .credit { color: var(--muted); font-size: 0.85rem; margin-top: 12px; text-align: center; }
 .feature-media { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; }
 figure { margin: 0; }
