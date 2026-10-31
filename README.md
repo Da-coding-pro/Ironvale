@@ -22,6 +22,22 @@
 
 ---
 
+## 🔗 New in 2.2.1: Progress Sync Fix
+
+- **Purchases stay bought.** Progress now merges across PC, Android and browser instead of one device overwriting another. Update every device: an older copy can still overwrite your progress.
+- **Link CrazyGames with your other devices.** Settings > LINK DEVICES: GET CODE on one device, LINK on the other. Do it on both for two-way sync.
+
+---
+
+## 🪞 New in 2.2: Holoforge, the Illusionist
+
+- **New Legendary mech.** Projection Copy turns the enemy it hits into a hologram that fights for you, and Phantom Battalion fills the arena with 4 real and 4 fake Bastions.
+- **Daily login rewards.** A 7-day calendar with a big chest on day 7.
+- **Next unlock.** Every match ends by showing your next Trophy Road unlock.
+- **Straight into the action.** New pilots start in a real Duel with on-screen control hints.
+
+---
+
 ## 🧊 New in 2.1 — Squad Cubes: Power Up Together
 
 Showdown just became a team game.
